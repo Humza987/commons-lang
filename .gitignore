@@ -21,3 +21,6 @@ site-content
 
 # jenv's version file
 .java-version
+/bin/
+/.apt_generated/
+/.apt_generated_tests/
